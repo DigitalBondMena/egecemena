@@ -15,7 +15,6 @@
 //   })
 // }(jQuery);
 $(document).ready(function(s){
-  s(document).ready(function () {
         var e = document.querySelector(".progress-wrap path");
         var  t = e.getTotalLength();
         e.style.transition = e.style.WebkitTransition = "none", e.style.strokeDasharray = t + " " + t, e.style.strokeDashoffset = t, e.getBoundingClientRect(), e.style.transition = e.style.WebkitTransition = "stroke-dashoffset 10ms linear";
@@ -27,7 +26,7 @@ $(document).ready(function(s){
         };
         o(), s(window).scroll(o);
 
-      })
+      
   $('.progress-wrap').on('click', function () {
       $("html, body").animate({
           scrollTop: 0
