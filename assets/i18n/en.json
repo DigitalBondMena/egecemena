@@ -81,6 +81,8 @@
   "login":"Login",
   "login_title":"Login to EGEC",
   "login_text":"You do not have an account you can",
+  "form_first_name":"First name",
+  "form_last_name":"Last name",
   "destination": "Destination",
   "know_more_universities":"Explore universities",
   "know_more_university":"Explore university",

@@ -86,6 +86,8 @@
   "know_more_faculties":"تصفح الكلية",
   "admission_form": "التحق الآن",
   "login_button":"أنشاء الحساب هنا!",
+  "form_first_name":" الأسم الأول",
+  "form_last_name":"الأسم الأخير",
   "form_name":"الأسم",
   "form_email":"البريد الإلكتروني",
   "form_phone":"الهاتف",
